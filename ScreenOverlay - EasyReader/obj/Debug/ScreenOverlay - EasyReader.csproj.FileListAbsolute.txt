@@ -1,0 +1,10 @@
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\bin\Debug\ScreenOverlay - EasyReader.exe.config
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\bin\Debug\ScreenOverlay - EasyReader.exe
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\bin\Debug\ScreenOverlay - EasyReader.pdb
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\obj\Debug\ScreenOverlay - EasyReader.csprojResolveAssemblyReference.cache
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\obj\Debug\ScreenOverlay___EasyReader.Form1.resources
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\obj\Debug\ScreenOverlay___EasyReader.Properties.Resources.resources
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\obj\Debug\ScreenOverlay - EasyReader.csproj.GenerateResource.Cache
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\obj\Debug\ScreenOverlay - EasyReader.exe
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\obj\Debug\ScreenOverlay - EasyReader.pdb
+C:\SOURCE_MINE\Visual Studio\C#\ScreenOverlay - Screen Easyreader\ScreenOverlay - EasyReader\ScreenOverlay - EasyReader\obj\Debug\ScreenOverlay___EasyReader.FormSettings.resources
