@@ -44,9 +44,9 @@ namespace ScreenOverlay___EasyReader
             fs.frmReference = this;
 
             fs.hScrollAlpha.Value = 100;
-            fs.hScroll_R.Value = 50;
-            fs.hScroll_G.Value = 50;
-            fs.hScroll_B.Value = 255;
+            fs.hScroll_R.Value = 1;
+            fs.hScroll_G.Value = 1;
+            fs.hScroll_B.Value = 1;
             fs.Show();
         }
 
@@ -83,7 +83,7 @@ namespace ScreenOverlay___EasyReader
             int wl = User32_GetWindowLong(this.Handle, GetWindowLong.GWL_EXSTYLE);
             User32_SetWindowLong(this.Handle, GetWindowLong.GWL_EXSTYLE, wl | (int)ExtendedWindowStyles.WS_EX_LAYERED | (int)ExtendedWindowStyles.WS_EX_TRANSPARENT);
 
-            updateBackgroundColour(100, 50, 50, 255);
+            updateBackgroundColour(100, 1, 1, 1);
         }
 
         public void updateBackgroundColour(int iAlpha, int iR, int iG, int iB)

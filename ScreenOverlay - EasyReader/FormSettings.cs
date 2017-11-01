@@ -59,10 +59,6 @@ namespace ScreenOverlay___EasyReader
             switch (comboBox1.SelectedIndex)
             {
                 case 1: //Default
-                      hScroll_R.Value = 50;
-                      hScroll_G.Value = 50;
-                      hScroll_B.Value = 255;
-                    break;
                 case 2: //Blackness
                       hScroll_R.Value = 1;
                       hScroll_G.Value = 1;
